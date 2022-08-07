@@ -1,0 +1,50 @@
+.imgNathria {
+	position: absolute;
+	bottom: 20rem;
+	right: 39rem;
+	width: 244px;
+	height: 140px;
+}
+
+.contenidoNathria {
+	position: absolute;
+	bottom: 8rem;
+	right: 10rem;
+	width: 45rem;
+}
+
+.contenidoNathria h2 {
+	text-align: left;
+	font-size: 3.3rem;
+	font-weight: 700;
+}
+
+.contenidoNathria button {
+	border-radius: 50px;
+	font-size: 24px;
+	font-weight: 600;
+	margin: 3px;
+	height: 60px;
+	width: 260px;
+}
+
+.infoBtn {
+	color: white;
+	background-color: #504f6b;
+	opacity: 70%;
+}
+
+.contenidoCentral {
+	height: 137rem;
+	color: white;
+	background-image: url("../../../assets/backgroundContentCenter.jpg");
+}
+
+.contenidoCentral h2 {
+	font-size: 36px;
+	font-weight: 700;
+}
+.containerP {
+	/* background-color: aquamarine; */
+	height: 156px;
+}
