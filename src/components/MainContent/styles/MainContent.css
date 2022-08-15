@@ -1,3 +1,4 @@
+/* CONTENIDO RELACIONADO CON HEARTHSTONE */
 .imgNathria {
 	position: absolute;
 	bottom: 20rem;
@@ -27,7 +28,134 @@
 	height: 60px;
 	width: 260px;
 }
+/* CONTENIDO RELACIONADO CON DIABLO */
+.imgDiablo {
+	position: absolute;
+	bottom: 20rem;
+	right: 35rem;
+	height: 161px;
+	width: 335px;
+}
+.contenidoDiablo {
+	/* background-color: cornflowerblue; */
+	position: absolute;
+	bottom: 5rem;
+	right: 10rem;
+	width: 45rem;
+}
 
+.contenidoDiablo h2 {
+	/* background-color: aqua; */
+	text-shadow: 1px 4px 50px black;
+	text-align: left;
+	font-size: 3.3rem;
+	font-weight: 700;
+	width: 516px;
+}
+
+.contenidoDiablo button {
+	background-color: #3da0dd;
+	border-radius: 50px;
+	font-size: 24px;
+	font-weight: 700;
+	margin: 3px;
+	margin-top: 30px;
+	height: 73px;
+	width: 295px;
+}
+
+/* CONTENIDO RELACIONADO CON WRATH OF THE LICH KING */
+.imgLK {
+	position: absolute;
+	bottom: 20rem;
+	right: 35rem;
+	height: 161px;
+	width: 335px;
+}
+.contenidoLK {
+	/* background-color: cornflowerblue; */
+	position: absolute;
+	bottom: 5rem;
+	right: 10rem;
+	width: 45rem;
+}
+
+.contenidoLK h2 {
+	/* background-color: aqua; */
+	text-shadow: 1px 4px 50px black;
+	text-align: left;
+	font-size: 3.3rem;
+	font-weight: 700;
+	width: 640px;
+}
+
+.infoBtnLK {
+	background-color: #3da0dd;
+	border-radius: 50px;
+	font-size: 24px;
+	font-weight: 700;
+	margin: 3px;
+	margin-top: 30px;
+	height: 73px;
+	width: 295px;
+}
+.susBtnLK {
+	color: white;
+	background-color: #504f6b;
+	border-radius: 50px;
+	font-size: 24px;
+	font-weight: 700;
+	margin: 3px;
+	margin-top: 30px;
+	height: 75px;
+	opacity: 70%;
+	width: 223px;
+}
+
+/* CONTENIDO RELACIONADO CON DRAGON FLIGTH */
+.contenidoDragonFligth {
+	position: absolute;
+	bottom: 7rem;
+	right: 10rem;
+	width: 45rem;
+}
+.imgDragonFligth {
+	position: absolute;
+	bottom: 20rem;
+	right: 35rem;
+	height: 161px;
+	width: 335px;
+}
+.contenidoDragonFligth h2 {
+	text-align: left;
+	font-size: 4rem;
+	font-weight: 700;
+	width: 640px;
+}
+.infoBtnDragonFligth {
+	background-color: #3da0dd;
+	border-radius: 50px;
+	font-size: 24px;
+	font-weight: 700;
+	margin: 3px;
+	margin-top: 30px;
+	height: 73px;
+	width: 223px;
+}
+.susBtnDragonFligth {
+	color: white;
+	background-color: #504f6b;
+	border-radius: 50px;
+	font-size: 24px;
+	font-weight: 700;
+	margin: 3px;
+	margin-top: 30px;
+	height: 75px;
+	opacity: 70%;
+	width: 295px;
+}
+
+/* CONTENIDO EN GENERAL */
 .infoBtn {
 	color: white;
 	background-color: #504f6b;
@@ -47,4 +175,46 @@
 .containerP {
 	/* background-color: aquamarine; */
 	height: 156px;
+}
+
+.btnGeneralInfos button {
+	color: white;
+	background-color: #58738e;
+	/* border: 1px solid gray; */
+	border-radius: 50px;
+	font-weight: 600;
+	margin: 10px;
+	padding: 10px;
+	opacity: 80%;
+	width: 150px;
+}
+.btnGeneralInfos button:nth-child(1) {
+	height: 33px;
+	line-height: 10px;
+	width: 73px;
+}
+.btnGeneralInfos button:nth-child(2) {
+	height: 33px;
+	line-height: 10px;
+	width: 132px;
+}
+.btnGeneralInfos button:nth-child(3) {
+	height: 35px;
+	line-height: 10px;
+	width: 98px;
+}
+
+/* CONTENIDO CARDS */
+.contenidoCards {
+	text-align: left;
+}
+.contenidoCards h5 {
+	font-size: 20px;
+	font-weight: 700;
+}
+.contenidoCards p {
+	font-weight: 600;
+}
+.contenidoCards img {
+	margin: 5px;
 }
