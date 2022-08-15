@@ -101,10 +101,21 @@ const Cards = () => {
 				</div>
 			</div>
 			<div className="row">
-				<div className="col">1</div>
-				<div className="col">2</div>
-				<div className="col">3</div>
-				<div className="col">4</div>
+				<div className="col" style={{backgroundColor: "#00FFAB"}}>
+					1
+				</div>
+				<div className="col" style={{backgroundColor: "#00FFAB"}}>
+					2
+				</div>
+				<div className="col" style={{backgroundColor: "#14C38E"}}>
+					3
+				</div>
+				<div className="col" style={{backgroundColor: "#B8F1B0"}}>
+					4
+				</div>
+				<div className="col" style={{backgroundColor: "#E3FCBF"}}>
+					5
+				</div>
 			</div>
 		</>
 	);
